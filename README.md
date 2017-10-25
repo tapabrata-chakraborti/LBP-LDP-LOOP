@@ -14,7 +14,7 @@ If you use the code, please cite:
 
 T. Chakraborti, B. McCane, S. Mills, and U. Pal, 
 "LOOP Descriptor: Encoding Repeated Local Patterns for Fine-grained Visual Identification of Lepidoptera", 
-Arxiv:
+IEEE Signal Processing Letters, 2017. (under review)
 
 
 
