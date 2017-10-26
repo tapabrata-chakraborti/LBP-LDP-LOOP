@@ -1,7 +1,7 @@
 % Demo: A simple 3x3 LOOP (local oriented optimal pattern) code.
 % Cite: T. Chakraborti, B. McCane, S. Mills, and U. Pal, "LOOP: Descriptor:
 % Encoding Repeated Local Patternsfor Fine-grained Visual Identification of
-% Lepidoptera", IEEE Signal Processing Letters, 2017. (submitted, under review)
+% Lepidoptera", arXiv:1710.09317.
 
 clear all
 close all
